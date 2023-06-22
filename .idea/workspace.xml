@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6edb611-a0fa-4648-be50-daa29e3f45e1" name="Changes" comment="" />
+    <list default="true" id="a6edb611-a0fa-4648-be50-daa29e3f45e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex4.go" beforeDir="false" afterPath="$PROJECT_DIR$/ex4.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../Program Files/Go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../go/go1.20.2" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -29,6 +32,9 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2PNAq68rhd36d2MnGfrX0qL6cSF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,13 +52,13 @@
     "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/davi.pacini/algoritmos---structs-DaviPacini",
+    "last_opened_file_path": "C:/Users/Davi Pacini/algoritmos---structs-DaviPacini",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "go.sdk"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build ex3.go">
+  <component name="RunManager" selected="Go Build.go build ex4.go">
     <configuration name="go build ex1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---structs-DaviPacini" />
       <working_directory value="$PROJECT_DIR$" />
@@ -77,8 +83,17 @@
       <filePath value="$PROJECT_DIR$/ex3.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build ex4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---structs-DaviPacini" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ex4.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build ex4.go" />
         <item itemvalue="Go Build.go build ex3.go" />
         <item itemvalue="Go Build.go build ex2.go" />
         <item itemvalue="Go Build.go build ex1.go" />

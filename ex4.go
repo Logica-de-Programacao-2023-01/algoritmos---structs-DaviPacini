@@ -4,6 +4,8 @@
 
 package main
 
+import "fmt"
+
 type Musica struct {
 	titulo  string
 	artista string
@@ -16,5 +18,7 @@ type Playlist struct {
 }
 
 func main() {
-
+	m := Musica{titulo: "Lover", artista: "Taylor Swift", duracao: 3}
+	p := Playlist{nome: "Taylor", musicas: []Musica{m}}
+	fmt.Println(p)
 }
